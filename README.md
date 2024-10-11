@@ -1,6 +1,6 @@
 # Only Connect Puzzle Grid
 
-Implementation of Only Connect's Puzzle Grid game built with SvelteKit.
+Implementation of Only Connect's Puzzle Grid game built with SvelteKit (and statically deployed [here](https://oc.genieindex.ca/)).
 
 ## Caveats
 
